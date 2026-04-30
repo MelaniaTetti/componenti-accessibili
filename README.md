@@ -29,4 +29,8 @@ This project was created to demonstrate how simple components can be designed wi
 * Vite
 
 ## Live demo
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1579aab52a82e86de7f4408c13a339ea17afa0d7
 https://componenti-accessibili.vercel.app/
