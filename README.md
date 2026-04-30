@@ -30,4 +30,4 @@ This project was created to demonstrate how simple components can be designed wi
 
 ## Live demo
 
-[Add your Vercel link here]
+https://componenti-accessibili.vercel.app/
